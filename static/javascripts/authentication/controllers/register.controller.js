@@ -1,7 +1,3 @@
-/**
-* Register controller
-* @namespace thinkster.authentication.controllers
-*/
 (function () {
   'use strict';
 
